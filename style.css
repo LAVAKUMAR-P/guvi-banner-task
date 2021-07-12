@@ -1,0 +1,194 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+
+
+
+html{
+    background-color: #F2F2F2 !important; 
+}
+.font{
+    font-family: 'Roboto', sans-serif !important;
+}
+.newrow{
+    height: 480px;
+}
+.mangocol{
+    color: #EECB44;
+}
+.dr-gray{
+    color: gray;
+}
+.number{
+    font-size: 20px;
+    color: #325B77;
+    font-family: 'Roboto', sans-serif;
+
+}
+.relative{
+    position: relative;
+}
+.obesity{
+ display: block;
+ font-size:3em;
+ font-weight: bold;
+ line-height:1em;
+}
+.bg-light{
+    background-color: #F2F2F2 !important;
+   
+}
+.new-boder{
+    border-right: dashed;
+    border-width: 3px !important;
+    border-color: skyblue !important;
+}
+.cake-position{
+ position: absolute;
+ right:35%;
+ bottom: 0;
+}
+.text-margin{
+    margin-left: 20px;
+}
+.drinks{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.round{
+    position: absolute;
+    right: 40%; 
+    bottom: 0;
+}
+.icecream-position{
+    position:absolute;
+    right:17%;
+    top: 10%;
+}
+.postion-adult{
+    position:absolute;
+    right:300px;
+    top:em;
+    margin-top: 10px;
+    font-size: 2em;
+}
+.adult-position-pic{
+    position:absolute;
+    right: 0;
+    top: 0em;
+}
+.postion-num{
+    position:absolute;
+    right:10em;
+    top:1.5em;
+    font-size: 2em;
+    font-family: 'Roboto', sans-serif !important;
+}
+.young{
+    position:absolute;
+    right:300px;
+    top:3.5em;
+    font-size: 2em;  
+}
+.postion-num-2{
+    position:absolute;
+    right:10em;
+    top:4.8em;
+    font-size: 2em;
+}
+.adult-position-pic-1{
+    position:absolute;
+    right:2.2em;
+    top: 3.5em;
+    font-size: 2em;
+}
+.chil{
+    position:absolute;
+    right:300px;
+    top:6em;
+    font-size: 2em;  
+}
+.postion-num-3{
+    position:absolute;
+    right:10em;
+    top:7em;
+    font-size: 2em;
+}
+.adult-position-pic-3{
+    position:absolute;
+    right:9em;
+    top:12em;
+}
+.bread{
+    position:absolute;
+    top: 3em;
+    right:15em;
+}
+.healthy{
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 1px;
+    color: #33576E;
+}
+.whole-grain-position{
+    font-size: 1.5em;
+    font-weight: bold; 
+    line-height:1em;
+}
+.h100{
+    position:absolute;
+    top: 3.3em;
+    left:2.3em; 
+    font-size:1.5em; 
+}
+.h101{
+    font-size:1.5em; 
+}
+.greenveg{
+    position:absolute;
+    top: 7.5em;
+    right:11em;
+}
+.fish{
+    position:absolute;
+    top: 11.7em;
+    right:9.5em;
+}
+.h75{
+    position:absolute;
+    top: 5.5em;
+    left:4.5em; 
+    font-size:1.5em; 
+}
+.h50{
+    position:absolute;
+    top: 8em;
+    left:5em; 
+    font-size:1.5em;  
+}
+.h25{
+    position:absolute;
+    top: 10em;
+    left:6em; 
+    font-size:1.5em;  
+}
+.bar-position{
+    position: absolute;
+    bottom: 0;
+}
+.right-bottom{
+    position:absolute;
+    top:1em;
+    left:10em;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+.blue-rb{
+    color: skyblue;
+}
+.blue-rbb{
+    color: skyblue;
+    font-weight: bold;
+}
+.blue{
+    color: #0d4b6e;
+}
